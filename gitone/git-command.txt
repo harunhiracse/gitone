@@ -20,4 +20,6 @@ For delete/remove a file : git rm file-name.extention
 For remove deleted files comments : git reset HEAD
 -------------------------------XX-------------------------XX---------------------------------------
 
-
+-------------------------------XX-------------CLONE GIT------------XX---------------------------------------
+For Clone a git from Remote Repository: git clone githublink
+For Clone a git and store file with a new name: git clone githublink newfoldername
