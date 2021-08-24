@@ -1,0 +1,23 @@
+For initilize git: git init
+For add local username and email: git config user.name "Your User Name" and git config user.email"Your Email"
+For add Global username and email: git config global user.name "Your User Name" and git config global user.email"Your Email"
+To Create Folder/Directroy: mkdir foldername
+To Create file : touch filename.extension
+For Go inside the folder or directory: cd foldername
+To back from a folder: cd ../
+To show User list Information: git config --list
+To know git status : git status
+For add file into Working area to Staging Area : git add .
+For add file Staging area to Local Repository : git commit -m "Your Comment"
+To show git history : git log
+To show git history shortcut : git log --oneline
+To check difference between two history: git diff
+For Upload file Local Repository to Remote Repository(Github) : git push
+-------------------------------XX-------------------------XX---------------------------------------
+
+-------------------------------XX----------DELETE FILE---------------XX---------------------------------------
+For delete/remove a file : git rm file-name.extention 
+For remove deleted files comments : git reset HEAD
+-------------------------------XX-------------------------XX---------------------------------------
+
+
